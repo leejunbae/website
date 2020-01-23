@@ -1,0 +1,3 @@
+구글메일 보낼때 action태그에 입력할거
+
+https://script.google.com/macros/s/AKfycbwAuhIWOIEQ6xhea3Chp0HgPs1RCzUEcorEtbvPZQ/exec
